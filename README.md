@@ -2,9 +2,9 @@
 
 # Required
 
-1.- Node version ^16.0.0
-2.- Yarn
-3.- Expo-cli
+1 - Node version ^16.0.0
+2 - Yarn
+3 - Expo-cli
 
 # Installation
 
